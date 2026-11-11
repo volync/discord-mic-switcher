@@ -1,0 +1,187 @@
+Mic Switcher for Discord - Source-Available License
+Version 1.0, effective 2026-11-11
+
+Copyright (c) 2026 volync.
+All rights reserved.
+
+IMPORTANT: THIS SOFTWARE IS SOURCE-AVAILABLE, NOT OPEN SOURCE.
+The source code is published so that users can inspect exactly what it does
+before running it. Publication of the source code does not grant any right to
+copy, modify, redistribute or otherwise use it, except as expressly stated in
+this License. By downloading, installing, running or otherwise using the
+Software, You agree to the terms of this License. If You do not agree, do not
+use the Software.
+
+
+1. DEFINITIONS
+
+"Licensor" means volync, the copyright owner of the Software.
+
+"Software" means the Mic Switcher for Discord source code, scripts, user
+interface design, documentation, images and other files published in the
+Official Repository, including all versions, updates, and portions of any of
+them, but excluding Third-Party Material (Section 9).
+
+"You" means the individual who uses the Software.
+
+"Official Repository" means https://github.com/volync/discord-mic-switcher, or any
+other location the Licensor designates in writing.
+
+"Personal Use" means use by an individual, on devices that the individual owns
+or controls, for that individual's own private and non-commercial purposes.
+
+"Commercial Use" means any use intended for, or directed toward, commercial
+advantage or monetary compensation. This includes selling, licensing, renting
+or leasing the Software; offering it as part of a paid product, service,
+subscription or bundle; and using it to promote or support a paid offering.
+
+"Distribute" means to make the Software, or any part or modified version of it,
+available to any other person by any means. This includes uploading,
+re-hosting, mirroring, publishing, file sharing, and including the Software in
+another product, package, plugin collection, script collection or archive.
+
+"Derivative Work" means any work that is based on, adapted from, translated
+from, or contains a substantial portion of the Software.
+
+
+2. LICENSE GRANT
+
+Subject to Your continued compliance with this License, the Licensor grants You
+a personal, limited, worldwide, non-exclusive, non-transferable,
+non-sublicensable, royalty-free license, which can be terminated as described
+in Section 8, to:
+
+  (a) download the Software from the Official Repository;
+  (b) install and run the Software for Your Personal Use; and
+  (c) modify Your own copy of the Software solely for Your Personal Use,
+      provided that the modified version is never Distributed.
+
+
+3. RESTRICTIONS
+
+Except as expressly permitted in Section 2, or with the Licensor's prior
+written permission, You must not:
+
+  (a) Distribute the Software or any Derivative Work, whether modified or
+      unmodified, and whether free of charge or for payment;
+  (b) sell, resell, rent, lease, license, sublicense or otherwise commercially
+      exploit the Software or any Derivative Work, or use the Software for any
+      Commercial Use;
+  (c) remove, alter or obscure any copyright notice, license notice or author
+      credit, including the "made by volync" credit shown in the user
+      interface, or this License;
+  (d) rebrand the Software, publish it under a different name, or present it
+      as Your own work or as the work of anyone other than the Licensor;
+  (e) claim authorship or ownership of the Software or of any part of it;
+  (f) incorporate the Software, or any substantial portion of it, into any
+      other software, service, client modification, plugin or script; or
+  (g) use the Software, the Licensor's name or the name "volync" to endorse or
+      promote any product or service.
+
+
+4. PERMITTED SHARING
+
+You may share links to the Official Repository. Sharing links, reviews,
+screenshots and videos that show the Software in use, with credit to the
+Licensor, is welcome and is not Distribution.
+
+
+5. GITHUB PLATFORM FUNCTIONALITY
+
+The Official Repository is hosted on GitHub. To the extent the GitHub Terms of
+Service give GitHub users the right to view public repositories and to fork
+them on GitHub, those rights exist only within GitHub's functionality. A fork
+on GitHub grants no rights beyond those, and in particular does not permit
+Distribution outside GitHub, Commercial Use, or Distribution of modified
+versions. You may use a fork only to view the Software or to prepare
+Contributions to the Official Repository.
+
+
+6. CONTRIBUTIONS
+
+If You submit a contribution (for example a pull request, patch, code snippet
+or design) to the Official Repository, You confirm that You have the right to
+submit it. You also grant the Licensor a perpetual, worldwide, irrevocable,
+royalty-free, non-exclusive license to use, reproduce, modify, distribute,
+sublicense and relicense that contribution, as part of the Software or
+otherwise. You keep any copyright You have in Your contribution.
+
+
+7. OWNERSHIP AND RESERVATION OF RIGHTS
+
+The Software is licensed, not sold. The Licensor retains all right, title and
+interest in and to the Software, including all copyrights and other
+intellectual property rights. All rights not expressly granted in this License
+are reserved. This License does not grant any right to use the Licensor's
+names, handles or logos as trademarks.
+
+
+8. TERMINATION
+
+This License terminates automatically if You breach any of its terms. If it is
+Your first breach, and You stop the violation and fix it within thirty (30)
+days after receiving notice of it from the Licensor, Your License is
+reinstated. When this License terminates, You must stop using the Software and
+delete all copies in Your possession or control. Sections 3, 7, 8, 10, 11, 12
+and 13 survive termination. The Licensor may offer future versions of the
+Software under different terms.
+
+
+9. THIRD-PARTY MATERIAL AND SERVICES
+
+"Discord" is a trademark of Discord Inc. The Software is an unofficial,
+independent project. It is not affiliated with, endorsed by, sponsored by or
+approved by Discord Inc. Names of third-party products are used only to
+describe compatibility. This License grants no rights in any third-party
+software, service, code or trademark, including Discord, its client and its
+brand ("Third-Party Material").
+
+
+10. COMPLIANCE AND USE AT YOUR OWN RISK
+
+You are solely responsible for making sure that Your use of the Software
+complies with all applicable laws and with every agreement that applies to You,
+including Discord's Terms of Service, Community Guidelines and other policies.
+Modifying or extending the Discord client may violate Discord's Terms of
+Service and could lead to action against Your account. This License does not,
+and cannot, authorize any use that a third party's terms prohibit.
+
+
+11. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY WARRANTY OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT OR
+ACCURACY, AND ANY WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED,
+SECURE OR COMPATIBLE WITH ANY VERSION OF DISCORD.
+
+
+12. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR WILL NOT BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY
+OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, GOODWILL OR ACCOUNT
+ACCESS (INCLUDING ANY SUSPENSION OR TERMINATION OF A DISCORD ACCOUNT), ARISING
+OUT OF OR RELATING TO THE SOFTWARE OR THIS LICENSE, HOWEVER CAUSED AND UNDER
+ANY THEORY OF LIABILITY, EVEN IF THE LICENSOR WAS ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
+CERTAIN WARRANTIES OR DAMAGES. WHERE THAT IS THE CASE, THE ABOVE EXCLUSIONS
+APPLY TO THE GREATEST EXTENT THE LAW ALLOWS.
+
+
+13. GENERAL
+
+  (a) Governing law. This License is governed by the laws of the country in
+      which the Licensor resides, excluding its conflict-of-laws rules.
+  (b) Severability. If any provision of this License is held to be
+      unenforceable, it will be enforced to the maximum extent permissible,
+      and the remaining provisions stay in effect.
+  (c) No waiver. Failure to enforce any provision is not a waiver of the
+      right to enforce it later.
+  (d) Entire agreement. This License is the entire agreement about the
+      Software, unless You and the Licensor sign a separate written agreement.
+  (e) Other permissions. To request permission for anything this License
+      does not allow, such as redistribution, Commercial Use or inclusion in
+      another project, contact the Licensor at https://github.com/volync/discord-mic-switcher/issues.
+
+SPDX-License-Identifier: LicenseRef-MicSwitcher-SAL-1.0
